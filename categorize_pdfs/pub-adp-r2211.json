@@ -1,0 +1,159 @@
+{
+    "Adaptive Platform": {
+        "Adaptive Services": [
+            "AUTOSAR_RS_AutomatedDrivingInterfaces.pdf",
+            "AUTOSAR_SWS_SensorInterfaces.pdf"
+        ],
+        "Communication Management": [
+            "AUTOSAR_RS_CommunicationManagement.pdf",
+            "AUTOSAR_SWS_AdaptiveIntrusionDetectionSystemManager.pdf",
+            "AUTOSAR_SWS_CommunicationManagement.pdf",
+            "AUTOSAR_TR_DDSSecurityIntegration.pdf"
+        ],
+        "Cryptography": [
+            "AUTOSAR_RS_Cryptography.pdf",
+            "AUTOSAR_SWS_Cryptography.pdf"
+        ],
+        "Diagnostics": [
+            "AUTOSAR_EXP_SOVD.pdf",
+            "AUTOSAR_SWS_Diagnostics.pdf"
+        ],
+        "Execution Management": [
+            "AUTOSAR_RS_ExecutionManagement.pdf",
+            "AUTOSAR_SWS_ExecutionManagement.pdf"
+        ],
+        "General": [
+            "AUTOSAR_EXP_AdaptivePlatformInterfacesGuidelines.pdf",
+            "AUTOSAR_EXP_ARAComAPI.pdf",
+            "AUTOSAR_EXP_IpsecImplementationGuidelines.pdf",
+            "AUTOSAR_EXP_ParallelProcessingGuidelines.pdf",
+            "AUTOSAR_EXP_SensorInterfaces.pdf",
+            "AUTOSAR_EXP_SWArchitecture.pdf",
+            "AUTOSAR_RS_CPP14Guidelines.pdf",
+            "AUTOSAR_RS_General.pdf",
+            "AUTOSAR_SWS_AdaptivePlatformCore.pdf",
+            "AUTOSAR_SWS_LanguageBindingForModeledAPdatatypes.pdf",
+            "AUTOSAR_SWS_TimeSynchronization.pdf"
+        ],
+        "Libraries": [
+            "AUTOSAR_TR_FunctionalClusterShortnames.pdf"
+        ],
+        "Log and Trace": [
+            "AUTOSAR_SWS_LogAndTrace.pdf"
+        ],
+        "Methodology": [
+            "AUTOSAR_SWS_AdaptivePlatformTypes.pdf",
+            "AUTOSAR_TPS_AdaptivePlatformTimingExtensions.pdf",
+            "AUTOSAR_TR_AdaptiveMethodology.pdf"
+        ],
+        "Operating System Interface": [
+            "AUTOSAR_RS_OperatingSystemInterface.pdf",
+            "AUTOSAR_SWS_OperatingSystemInterface.pdf"
+        ],
+        "Persistency": [
+            "AUTOSAR_RS_Persistency.pdf",
+            "AUTOSAR_SWS_Persistency.pdf"
+        ],
+        "Platform Health Management": [
+            "AUTOSAR_SWS_PlatformHealthManagement.pdf"
+        ],
+        "Release Documentation": [
+            "AUTOSAR_TR_AdaptivePlatformReleaseOverview.pdf"
+        ],
+        "Security": [
+            "AUTOSAR_SWS_AdaptivePlatformFirewall.pdf"
+        ],
+        "Services": [
+            "AUTOSAR_RS_IdentityAndAccessManagement.pdf",
+            "AUTOSAR_RS_PlatformHealthManagement.pdf",
+            "AUTOSAR_RS_StateManagement.pdf",
+            "AUTOSAR_RS_UpdateAndConfigurationManagement.pdf",
+            "AUTOSAR_SWS_IdentityAndAccessManagement.pdf",
+            "AUTOSAR_SWS_NetworkManagement.pdf",
+            "AUTOSAR_SWS_StateManagement.pdf",
+            "AUTOSAR_SWS_UpdateAndConfigurationManagement.pdf"
+        ],
+        "System Tests": [
+            "AUTOSAR_TR_AdaptivePlatformSystemTests.pdf"
+        ],
+        "Template": [
+            "AUTOSAR_EXP_PlatformDesign.pdf",
+            "AUTOSAR_RS_ManifestSpecification.pdf",
+            "AUTOSAR_TPS_ManifestSpecification.pdf"
+        ]
+    },
+    "Foundation": {
+        "Communication Services": [
+            "AUTOSAR_RS_MACsec.pdf",
+            "AUTOSAR_RS_NetworkManagement.pdf",
+            "AUTOSAR_RS_Safety.pdf"
+        ],
+        "Diagnostics": [
+            "AUTOSAR_RS_Diagnostics.pdf"
+        ],
+        "General": [
+            "AUTOSAR_EXP_SafetyOverview.pdf",
+            "AUTOSAR_EXP_SecurityOverview.pdf",
+            "AUTOSAR_EXP_SWArchitecturalDecisions.pdf",
+            "AUTOSAR_PRS_E2EProtocol.pdf",
+            "AUTOSAR_PRS_IntrusionDetectionSystem.pdf",
+            "AUTOSAR_PRS_LogAndTraceProtocol.pdf",
+            "AUTOSAR_PRS_NetworkManagementProtocol.pdf",
+            "AUTOSAR_PRS_SecOcProtocol.pdf",
+            "AUTOSAR_PRS_SOMEIPProtocol.pdf",
+            "AUTOSAR_PRS_SOMEIPServiceDiscoveryProtocol.pdf",
+            "AUTOSAR_PRS_TimeSyncProtocol.pdf",
+            "AUTOSAR_PRS_V2XRemoteAccessLayer.pdf",
+            "AUTOSAR_RS_DataDistributionService.pdf",
+            "AUTOSAR_RS_IPsecProtocol.pdf",
+            "AUTOSAR_RS_SOMEIPProtocol.pdf",
+            "AUTOSAR_RS_SOMEIPServiceDiscoveryProtocol.pdf",
+            "AUTOSAR_RS_TimeSync.pdf",
+            "AUTOSAR_TR_Glossary.pdf",
+            "AUTOSAR_TR_PredefinedNames.pdf"
+        ],
+        "Log and Trace": [
+            "AUTOSAR_TPS_LogAndTraceExtract.pdf"
+        ],
+        "Objectives and Main Requirements": [
+            "AUTOSAR_RS_Main.pdf",
+            "AUTOSAR_RS_ProjectObjectives.pdf"
+        ],
+        "Platform Health Management": [
+            "AUTOSAR_ASWS_HealthMonitoring.pdf",
+            "AUTOSAR_EXP_SystemHealthMonitoring.pdf",
+            "AUTOSAR_RS_HealthMonitoring.pdf"
+        ],
+        "Release Documentation": [
+            "AUTOSAR_TR_FoundationReleaseOverview.pdf"
+        ],
+        "Security": [
+            "AUTOSAR_RS_Firewall.pdf",
+            "AUTOSAR_RS_IntrusionDetectionSystem.pdf",
+            "AUTOSAR_TR_ListOfKnownIssuesSecureHardwareExtensions.pdf",
+            "AUTOSAR_TR_SecureHardwareExtensions.pdf"
+        ],
+        "Software Architecture": [
+            "AUTOSAR_RS_E2E.pdf",
+            "AUTOSAR_RS_FoundationDebugTraceProfile.pdf",
+            "AUTOSAR_RS_LogAndTrace.pdf",
+            "AUTOSAR_RS_Methodology.pdf"
+        ],
+        "System Services": [
+            "AUTOSAR_TR_TimingAnalysis.pdf"
+        ],
+        "Templates": [
+            "AUTOSAR_RS_FeatureModelExchangeFormat.pdf",
+            "AUTOSAR_RS_SecurityExtractTemplate.pdf",
+            "AUTOSAR_RS_StandardizationTemplate.pdf",
+            "AUTOSAR_RS_TimingExtensions.pdf",
+            "AUTOSAR_TPS_AbstractPlatformSpecification.pdf",
+            "AUTOSAR_TPS_ARXMLSerializationRules.pdf",
+            "AUTOSAR_TPS_FeatureModelExchangeFormat.pdf",
+            "AUTOSAR_TPS_GenericStructureTemplate.pdf",
+            "AUTOSAR_TPS_SecurityExtractTemplate.pdf",
+            "AUTOSAR_TPS_StandardizationTemplate.pdf",
+            "AUTOSAR_TPS_XMLSchemaProductionRules.pdf"
+        ]
+    }
+}
